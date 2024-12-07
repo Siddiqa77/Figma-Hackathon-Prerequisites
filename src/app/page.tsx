@@ -17,13 +17,13 @@ const Home = () => {
      <Hero/>
      {/* <Sale/> */}
      
-     {/* <SaleCard/>
+      <SaleCard/>
      <CategorySection/>
      <SellingProduct/>
      <MusicExperience/>
      <ExploreProduct/>
      <Newarrival/>
-     <Service/> */}
+     <Service/> 
     </div>
   )
 }
