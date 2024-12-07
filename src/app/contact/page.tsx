@@ -1,4 +1,4 @@
-import Homeabout from "@/components/Homeabout";
+
 import Link from "next/link";
 import React from "react";
 
